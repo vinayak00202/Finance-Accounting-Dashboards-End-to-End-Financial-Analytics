@@ -1,0 +1,1 @@
+SELECT Investment, ROI_% FROM investments;

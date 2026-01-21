@@ -1,0 +1,1 @@
+SELECT Department, Budget, Actual, Variance FROM expenses;

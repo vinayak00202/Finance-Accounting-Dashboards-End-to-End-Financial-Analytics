@@ -1,0 +1,1 @@
+SELECT Date, SUM(Net_Cash) OVER (ORDER BY Date) AS Running_Cash FROM cash_flow;

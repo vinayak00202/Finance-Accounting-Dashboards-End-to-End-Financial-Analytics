@@ -1,0 +1,1 @@
+SELECT Date, Revenue, Net_Income, (Net_Income/Revenue)*100 AS Profit_Margin FROM income_statement;
